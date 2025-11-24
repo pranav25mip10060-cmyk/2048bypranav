@@ -85,7 +85,4 @@ A Turtle graphics window will open automatically with the 4×4 grid.
 Feel free to contact the developer for improvements or suggestions.
 
 **Developer:** Pranav Dange
-**Email:** *(add your email here)*
-**GitHub:** *(add your GitHub link here)*
-
 ---
